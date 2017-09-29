@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/TranslateForm.vue"],"names":[],"mappings":"AACA,WACQ,mBACA,qBAAuB","file":"static/css/app.405eb8893fa3c736dac91f8cb82762fe.css","sourcesContent":["\n#transForm{\n        border-radius: 10px;\n        border: 1px solid #ccc;\n}\n\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/TranslateForm.vue"],"sourceRoot":""}
